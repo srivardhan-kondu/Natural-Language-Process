@@ -10,8 +10,8 @@ Natural Language Processing (NLP) is a field at the intersection of linguistics,
 
 | Date       | Topics Covered                               | Commit Message                           |
 |------------|----------------------------------------------|------------------------------------------|
-| YYYY-MM-DD | Introduction to NLP, Tokenization            | `Initial commit: Learned Tokenization`   |
-| YYYY-MM-DD | Text Preprocessing (Stopwords, Lemmatization)| `Added text preprocessing techniques`    |
+| 27-09-2024 | Introduction to NLP, Tokenization            | ` Learned Tokenization`   |
+| 28-09-2024 | Text Preprocessing (Stopwords, Lemmatization)| `Added text preprocessing techniques`    |
 | YYYY-MM-DD | TF-IDF, Word Embeddings (Word2Vec)           | `Implemented TF-IDF and Word2Vec`        |
 
 ## Tools and Libraries
