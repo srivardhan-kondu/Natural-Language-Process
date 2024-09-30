@@ -13,6 +13,7 @@ Natural Language Processing (NLP) is a field at the intersection of linguistics,
 | 27-09-2024 | Introduction to NLP, Tokenization            | ` Learned Tokenization`   |
 | 28-09-2024 | Text Preprocessing (Stopwords, Lemmatization)| `Added text preprocessing techniques`    |
 | 29-09-2024 | TF-IDF, Word Embeddings (Word2Vec)           | `Revised and Relaxed`        |
+| 30-09-2024 | WORKED ON PERSONAL PROJECTS           | `Build & Deploy`        |
 
 ## Tools and Libraries
 
