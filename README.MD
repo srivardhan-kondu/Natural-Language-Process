@@ -26,7 +26,7 @@ Natural Language Processing (NLP) is a field at the intersection of linguistics,
 
 - Learn core NLP concepts
 - Apply them in real-world projects
-- Keep this repo updated with progress
+- Keeping this repo updated with progress
 
 ---
 
