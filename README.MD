@@ -17,6 +17,7 @@ Natural Language Processing (NLP) is a field at the intersection of linguistics,
 | 1-10-2024 | Text-vector part-01           | `One hot encoding, Bag of words, Ngrams`        |
 | 2-10-2024 | Text-vector part-02         | `One hot encoding, Bag of words, Ngrams`        |
 | 3-10-2024 | project-01           | `Text Classification-01`        |
+| 4-10-2024 | project-02           | `Kindel reviews sentiment Analysis`        |
 ## Tools and Libraries
 
 - **Python**
